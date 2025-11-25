@@ -5,7 +5,7 @@ function App() {
     <div className="app">
       <h1>React + Vite + Docker</h1>
       <p>
-        Plantilla básica lista para usar en producción dentro de un contenedor Docker.
+        Plantilla básica lista para usar en desarrollo
       </p>
       <ul>
         <li>Bundler: Vite</li>
